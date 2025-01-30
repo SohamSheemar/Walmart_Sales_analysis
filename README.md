@@ -24,7 +24,7 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mikhail1681/w
 ```
 walmart-sales-analysis/
 ├── data/
-│   └── Walmart.csv                # Raw dataset
+│   └── Walmart_Sales.csv                # Raw dataset
 ├── SQL Queries/
 │   ├── sql_queries.sql            # SQL queries for analysis
 ├── plots/
