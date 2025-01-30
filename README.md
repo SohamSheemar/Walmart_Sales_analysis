@@ -71,7 +71,7 @@ walmart-sales-analysis/
 ---
 
 ### **2. Run SQL Queries**
-Example SQL queries for analysis are provided in `SQL Queries/`. Some key queries include:
+Example SQL queries for analysis are provided in `SQL Queries/` folder. Some key queries include:
 - Total sales by store.
 - Average weekly sales by holiday flag.
 - Monthly sales trend.
@@ -80,7 +80,8 @@ Example SQL queries for analysis are provided in `SQL Queries/`. Some key querie
 ---
 
 ### **3. Analyze and Visualize Data**
-- Install all the required Python dependencies and visualise the data
+- Install all the required Python dependencies and visualise the data.
+- python files for visualisation are provided in `plots/` folder.
 ---
 
 ### **4. Key Visualizations**
