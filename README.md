@@ -25,14 +25,14 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mikhail1681/w
 walmart-sales-analysis/
 ├── data/
 │   └── Walmart.csv                # Raw dataset
-├── scripts/
+├── SQL Queries/
 │   ├── sql_queries.sql            # SQL queries for analysis
-│   ├── data_analysis.py           # Python script for analysis and visualization
-├── results/
+├── plots/
+|   ├── Python script for analysis and visualization
+├── Figures/
 │   ├── monthly_sales_trend.png    # Sample visualization
 │   └── total_sales_by_store.png   # Sample visualization
 ├── README.md                      # Project documentation
-└── requirements.txt               # Python dependencies
 ```
 
 ---
